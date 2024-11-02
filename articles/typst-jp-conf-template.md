@@ -8,7 +8,7 @@ published: true
 
 【テスト記事】
 https://github.com/kimushun1101/typst-jp-conf-template
-からののコピペです．
+からのコピペです．
 
 # typst-jp-conf-template
 
